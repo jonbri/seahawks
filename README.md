@@ -145,8 +145,12 @@ Practice (1 hour):
   - Agility drills
   - Running routes
 - End (~30 minutes):
-  - Offense runs plays vs. Defense
-  - Only loosely a scrimmage
+  - Coaches split up:
+    - Offense: run plays
+    - Defense: run coverages
+    - Floater
+  - 15 minutes: Team 1 offense vs. Team 2 defense
+  - 15 minutes: Team 2 offense vs. Team 1 defense
   - Points of emphasis
 - Game
 
