@@ -33,8 +33,6 @@
 
 ## Playbook
 
-_Sept 14: This is still a work in progress, and needs to be simplified._
-
 ### Offense
 
 #### Running
@@ -61,16 +59,16 @@ Play 2: RB behind QB, WRs in trips left/right, toss left/right
   <img src="plays/TripsRightBlueHitchAndGo.png" width="400">
 </a>
 
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-hitch-and-go">
+  <img src="plays/4QuickHichAndGo.png" width="400">
+</a>
+
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/trips-left-hail-mary">
   <img src="plays/tripsLeftHailMary.png" width="400">
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-center-zig">
   <img src="plays/QuadsLeftCenterZig.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-hitch-and-go">
-  <img src="plays/4QuickHichAndGo.png" width="400">
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-loo">
@@ -81,20 +79,8 @@ Play 2: RB behind QB, WRs in trips left/right, toss left/right
   <img src="plays/QuadsLeftSlotSail.png" width="400">
 </a>
 
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-right-blue-go">
-  <img src="plays/QuadsRightBlueGo.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-right-sticks">
-  <img src="plays/QuadsRightSticks.png" width="400">
-</a>
-
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/v-red-under">
   <img src="plays/VRedUnder.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/trips-right-divide-right">
-  <img src="plays/tripsRightDivideRight.png" width="400">
 </a>
 
 #### Play: Recess
@@ -107,20 +93,20 @@ This is a reset/hurry-up play where the players improvise relative to the flow t
 
 ### Defense
 
-#### Zone
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/prevent-manned-cover-2">
+  <img src="plays/PreventMannedCover2.png" width="400">
+</a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/3-front-cover-3">
   <img src="plays/3FrontCover3.png" width="400">
 </a>
 
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/prevent-manned-cover-2">
-  <img src="plays/PreventMannedCover2.png" width="400">
-</a>
-
-#### Man
-
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/flat-man-cover-1">
   <img src="plays/FlatManCover1.png" width="400">
+</a>
+
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/flat-man-cover-1">
+  <img src="plays/FlatManCover2.png" width="400">
 </a>
 
 ### Key
@@ -138,7 +124,8 @@ This is a reset/hurry-up play where the players improvise relative to the flow t
 
 Practice (1 hour):
 
-- Beginning (~10 minutes):
+- Start (~10 minutes):
+  - Warm-up
   - Playbook discussion
   - Points of emphasis
 - Middle (~20 minutes):
@@ -173,7 +160,7 @@ Points of emphasis:
 
 This content is copied from [here](https://leagues.teamlinkt.com/apexnc/Rules). I've paired this down to just the 2nd-3rd grade rules.
 
-Game Format:
+### Game Format
 
 - Field is 25 yards wide and 50 yards long, including the 5-yard end zones.
 - Games are 6 v 6 or 5 v 5 formats.
@@ -186,7 +173,7 @@ Game Format:
 - Clock stops in the last minute of the game on incompletions and out of bounds
 - 3 players must be on the LOS or it will result in illegal formation; the center and one player on both sides need to be on the LOS
 
-Scoring:
+### Scoring
 
 - Touchdowns = 6 points
 - Extra Point (5-yard line) = 1 point
@@ -194,7 +181,7 @@ Scoring:
 - Safety = 2 points; defense gains possession of the ball
   - A safety can happen when the ball carrier’s flag is pulled in the endzone
 
-Rules:
+### Rules
 
 - Two runs per offensive possession
 - One run allowed to gain a 1st Down (teams CAN run the ball within 5 yards of midfield)
@@ -204,18 +191,18 @@ Rules:
 - One coach is allowed on the field for both offense and defense
 - Pass count is 4 seconds until "sack"
 
-Snapping the Ball:
+### Snapping the Ball
 
 - The center can sidesaddle snap.
 - If teams choose to do sidesaddle snaps, the center must snap the ball to the QB standing DIRECTLY behind the center; no trick plays can be run from the direct sidesaddle snap
 
-Mercy Rule
+### Mercy Rule
 
 - If a team is up by 30 or more points, they only have 2 downs to get a first down and 2 downs to score until that point difference is trimmed below 30 points, then regular game rules apply
 - The team that is behind by 30 or more points will start their offensive possession at the +10-yard line and gets 4 downs to score
 - If the point difference is trimmed below 30 pts, then regular game rules apply
 
-Overall Logistic Rules
+### Overall Logistic Rules
 
 - Coin flip determines choice of possession or direction (winning team can elect to defer to the 2nd half)
 - The clock will only stop for time-outs and injuries unless it is the last minute of the game; it does not stop for incomplete passes, out of bounds, change of possession
@@ -236,13 +223,13 @@ Overall Logistic Rules
 - Only one player can be in motion at the same time
 - Games cannot end on a defensive penalty
 
-Special Alert Rules
+### Special Alert Rules
 
 - Defensive players can cross the line of scrimmage when a handoff, fake handoff, or backward pass has occurred.
 - This "Deception Rule" is applied to define the integrity of the LOS and development of the passing game for both offense and defense; rule applies to all divisions
 - Interceptions can be returned for a TD. If intercepting team's flag is pulled before the end zone; possession will begin where the defender is flagged
 
-Pass Game Rules
+### Pass Game Rules
 
 - The sack count starts on the snap of the ball no matter what the offensive play is attempted - the word SACK ends the play.
 - Forward pass can be underhand or overhand if it is beyond the LOS
@@ -251,7 +238,7 @@ Pass Game Rules
 - All grade levels have the option to throw a backward pass for a double pass play; this alerts the defense that they can cross the LOS to pull the flag of the player with the ball
 - Defense must start 2 yds off the line of scrimmage unless the ball is at the +1 then the defense can start at the goal line
 
-Run Game Rules
+### Run Game Rules
 
 - A play will be considered a run play, when the ball carrier crosses the line of scrimmage, or if a player takes a hand-off from the quarterback and does not cross the line of scrimmage in the allotted time.
 - A play in which a player takes a hand-off from the quarterback, and then throws a forward pass will be considered a pass play, and not count as a team's run play.
@@ -263,16 +250,14 @@ The play is dead when the following occurs to the ball carrier when the flag is 
 - Runner's knee or elbow touches the ground
 - Runner steps out of bounds
 - Runner loses his flag then the opposing team must touch him down.
-- Runner DIVES; ball is spotted where the runner left his feet.
-- Runner JUMPS; ball spotted where the runner left their feet
-- Runner LEAPS; ball spotted where the runner left their feet
+- Runner dives/jumps/leaps: ball is spotted where the runner left his feet.
 
-Game penalties:
+### Game penalties
 
 - The ball carrier can spin to avoid their flag being pulled but cannot flag guard
 - No fumbles (a fumbled, or stripped ball is dead and placed at the spot of the fumble with the offensive team retaining possession)
 
-Offense penalties:
+#### Offense penalties
 
 - Offensive Pass Interference
   - 10-yard penalty and replay the down
@@ -299,7 +284,7 @@ Offense penalties:
 - Delay of Game
   - clock is stopped and a 5-yard penalty
 
-Defensive penalties:
+#### Defensive penalties
 
 - Defensive Pass Interference
   - 10-yard penalty and replay down unless it’s an offensive catch; Offense decides. 1st down can occur depending on the yardage.
@@ -320,7 +305,7 @@ Defensive penalties:
 - Unsportsmanlike conduct
   - 15-yard penalty and automatic 1st down (possible ejection) Defensive Penalties inside the 10-yard line will result in half the distance to the goal line if applicable.
 
-Overtime Format (only relevant for playoffs):
+#### Overtime Format (only relevant for playoffs)
 
 - Coin flip determines choice of overtime offensive possession
 - Possession begins at the 5-yard line (both teams will go in the same direction)
@@ -328,23 +313,28 @@ Overtime Format (only relevant for playoffs):
 - If a touchdown is scored, the scoring team must go for a 2-point conversion
 - An extra point cannot be returned for points; it is a dead ball play
 - If the defense intercepts the ball, it’s a change of possession unless the defense returns it for a TD
-- Game Over if intercepting team returns it for a TD on its 1st defensive possession per OT
-- Game Over if the intercepting team was ahead in points in OT prior to playing defense
-- Game Over if a team has more points than the other team, after both shared an offensive possession
+- Game Over if:
+  - intercepting team returns it for a TD on its 1st defensive possession per OT
+  - intercepting team was ahead in points in OT prior to playing defense
+  - if a team has more points than the other team, after both shared an offensive possession
 - If the game is still tied, overtime will be repeated until there is a winner
 
 ## Terms
 
-- Trips - 3 receivers on one side
-- Quads - 4 receivers on one side
-- Hitch/Quick - quick 3-5 yard route and turn back to QB
-- Go/Fly - straight down the field
-- Sail - 10-15 yard route and turn back to QB
-- Loo - 10-15 yard route and turn back to QB, but on the opposite side of the field
-- Hitch and Go - fake a quick route, then go deep
-- Prevent - all defenders back deep
-- Cover 3 - 3 defenders back deep, 3 defenders
-- Cover 1 - 1 defender back deep, 5 defenders
+| Term         | Definition                                                                  |
+| ------------ | --------------------------------------------------------------------------- |
+| Trips        | 3 receivers on one side                                                     |
+| Quads        | 4 receivers on one side                                                     |
+| Hitch/Quick  | quick 3-5 yard route and turn back to QB                                    |
+| Go/Fly       | straight down the field                                                     |
+| Sail         | 10-15 yard route and turn back to QB                                        |
+| Loo          | 10-15 yard route and turn back to QB, but on the opposite side of the field |
+| Hitch and Go | fake a quick route, then go deep                                            |
+| Prevent      | all defenders back deep                                                     |
+| Cover 3      | 3 defenders back deep, 3 defenders                                          |
+| Cover 1      | 1 defender back deep, 5 defenders                                           |
+| Slot         | receiver lined up inside, between the wide receiver and the center          |
+| 4 Quick      | 4 receivers, 2 on each side of the ball                                     |
 
 ## Games
 
@@ -358,7 +348,7 @@ Team 1:
 
 | Player  | Position        |
 | ------- | --------------- |
-| Bennett | Center (Yellow) |
+| Ethan   | Center (Yellow) |
 | Arthur  | QB              |
 | Jason   | RB (Red)        |
 | Avi     | WR (Blue)       |
@@ -367,14 +357,14 @@ Team 1:
 
 Team 2:
 
-| Player | Position        |
-| ------ | --------------- |
-| Austin | Center (Yellow) |
-| Jason  | QB              |
-| Maddox | RB (Red)        |
-| Oliver | WR (Blue)       |
-| Paxton | WR (Green)      |
-| Ethan  | WR (Orange)     |
+| Player  | Position        |
+| ------- | --------------- |
+| Austin  | Center (Yellow) |
+| Bennett | QB              |
+| Maddox  | RB (Red)        |
+| Oliver  | WR (Blue)       |
+| Paxton  | WR (Green)      |
+| Jason   | WR (Orange)     |
 
 #### Defense
 
