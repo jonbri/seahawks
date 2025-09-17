@@ -37,18 +37,22 @@
 
 #### Running
 
-Play 1: RB behind QB, WRs in trips left/right, hand-off left/right
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
+  <img src="plays/RunMiddle.png" width="400">
+</a>
 
-Play 2: RB behind QB, WRs in trips left/right, toss left/right
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
+  <img src="plays/Toss.png" width="400">
+</a>
 
 #### Passing
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
-  <img src="plays/ShallowCrossers.png" width="400">
+  <img src="plays/4QuickQuickHitch.png" width="400">
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
-  <img src="plays/4QuickQuickHitch.png" width="400">
+  <img src="plays/ShallowCrossers.png" width="400">
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/slot-right-green-post">
@@ -83,9 +87,10 @@ Play 2: RB behind QB, WRs in trips left/right, toss left/right
   <img src="plays/QuadsLeftSlotSail.png" width="400">
 </a>
 
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/v-red-under">
-  <img src="plays/VRedUnder.png" width="400">
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
+  <img src="plays/Beehive.png" width="400">
 </a>
+
 
 #### Play: Recess
 
@@ -97,20 +102,20 @@ This is a reset/hurry-up play where the players improvise relative to the flow t
 
 ### Defense
 
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/prevent-manned-cover-2">
-  <img src="plays/PreventMannedCover2.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/3-front-cover-3">
-  <img src="plays/3FrontCover3.png" width="400">
-</a>
-
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/flat-man-cover-1">
   <img src="plays/FlatManCover1.png" width="400">
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/flat-man-cover-1">
   <img src="plays/FlatManCover2.png" width="400">
+</a>
+
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/prevent-manned-cover-2">
+  <img src="plays/PreventMannedCover2.png" width="400">
+</a>
+
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/3-front-cover-3">
+  <img src="plays/3FrontCover3.png" width="400">
 </a>
 
 ### Key
@@ -134,14 +139,22 @@ Practice (1 hour):
   - Points of emphasis
 - Middle (~20 minutes):
   - Agility drills
+    - High knees
+    - Butt kicks
+    - Backpedal
+    - Lateral movement
   - Running routes
+    - Curls
+    - Slants
+    - Go
+    - Out
 - End (~30 minutes):
   - Coaches split up:
     - Offense: run plays
     - Defense: run coverages
     - Floater
-  - 15 minutes: Team 1 offense vs. Team 2 defense
-  - 15 minutes: Team 2 offense vs. Team 1 defense
+  - 15 minutes: Team 1 offense vs. Team 1 defense
+  - 15 minutes: Team 2 offense vs. Team 2 defense
   - Points of emphasis
 - Game
 
@@ -152,7 +165,10 @@ Points of emphasis:
 - 4 Second QB Timer
 - Line of scrimmage penalties
 - Loud communication
-- etc
+- Don't overpursue the ball
+- Hands up, eyes on the ball
+- Diamond catch technique
+- Flag pulling technique
 
 ## Philosophy
 
@@ -339,12 +355,11 @@ The play is dead when the following occurs to the ball carrier when the flag is 
 | Cover 1      | 1 defender back deep, 5 defenders                                           |
 | Slot         | receiver lined up inside, between the wide receiver and the center          |
 | 4 Quick      | 4 receivers, 2 on each side of the ball                                     |
+| V            | 2 receivers on one side, 1 receiver on the other side                       |
 
 ## Games
 
 ### September 19: Jaguars
-
-_Sept 14: this is just a template at this point, still working this out._
 
 #### Offense
 
