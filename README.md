@@ -44,6 +44,10 @@ Play 2: RB behind QB, WRs in trips left/right, toss left/right
 #### Passing
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
+  <img src="plays/ShallowCrossers.png" width="400">
+</a>
+
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
   <img src="plays/4QuickQuickHitch.png" width="400">
 </a>
 
