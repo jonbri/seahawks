@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <th>Players (11)</th>
-      <td>Aahil, Arthur, Austin, Avi, Bennett, Ethan, Grayson, Jason, Maddox, Oliver, Paxton</td>
+      <td>Aahil, Arthur, Austin, Avi, Ben, Ethan, Grayson, Jason, Maddox, Oliver, Paxton</td>
     </tr>
   </tbody>
 </table>
@@ -360,11 +360,11 @@ Team 2:
 | Player  | Position        |
 | ------- | --------------- |
 | Austin  | Center (Yellow) |
-| Bennett | QB              |
+| Ben     | QB              |
 | Maddox  | RB (Red)        |
-| Oliver  | WR (Blue)       |
+| Jason   | WR (Blue)       |
 | Paxton  | WR (Green)      |
-| Jason   | WR (Orange)     |
+| Oliver  | WR (Orange)     |
 
 #### Defense
 
@@ -376,7 +376,7 @@ Team 1:
 | Grayson | SS (Orange)      |
 | Austin  | LB (Dark Blue)   |
 | Avi     | LB (Red)         |
-| Bennett | Lineman (Green)  |
+| Ben     | Lineman (Green)  |
 | Aahil   | Lineman (Yellow) |
 
 Team 2:
