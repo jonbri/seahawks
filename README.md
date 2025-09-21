@@ -355,7 +355,7 @@ The play is dead when the following occurs to the ball carrier when the flag is 
 | Cover 1      | 1 defender back deep, 5 defenders                                           |
 | Slot         | receiver lined up inside, between the wide receiver and the center          |
 | 4 Quick      | 4 receivers, 2 on each side of the ball                                     |
-| V            | 2 receivers on one side, 1 receiver on the other side                       |
+| Recess       | reset/hurry-up play where the players improvise relative to the flow the game |
 
 ## Games
 
