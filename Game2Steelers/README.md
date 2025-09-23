@@ -46,6 +46,10 @@ Captain: Maddox
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
+  <img src="plays/MaddenOuts.png" width="400">
+</a>
+
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
   <img src="plays/ShallowCrossers.png" width="400">
 </a>
 
