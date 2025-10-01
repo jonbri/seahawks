@@ -1,8 +1,8 @@
-# September 26: Steelers
+# October 3: Ravens
 
-Captain: Maddox
-
-## Depth Chart
+- Practice: 5:00pm
+- Game: 6:20pm
+- Captain: Maddox
 
 ## Offense
 
@@ -11,9 +11,9 @@ Captain: Maddox
 | Center      | Austin  | Oliver |
 | QB          | Jason   | Maddox |
 | RB (Red)    | Aahil   | Paxton |
-| WR (Blue)   | | |
-| WR (Green)  | | |
-| WR (Orange) | | |
+| WR (Blue)   |         |         |
+| WR (Green)  |         |         |
+| WR (Orange) |         |         |
 
 ## Defense
 
@@ -21,10 +21,10 @@ Captain: Maddox
 | ---------| ------- | ------- |
 | FS       | Jason   | Arthur  |
 | SS       | Grayson | Maddox  |
-| LB       | | |
-| LB       | | |
-| Lineman  | | |
-| Lineman  | | |
+| LB       |         |         |
+| LB       |         |         |
+| Lineman  |         |         |
+| Lineman  |         |         |
 
 
 ## Playbook

@@ -21,106 +21,16 @@
 
 ## Schedule
 
-| Date       | Time       | Opponent    |
-| ---------- | ---------- | ----------- |
-| Sep 19     | 7:10pm     | Jaguars     |
-| Sep 26     | 6:20pm     | Steelers    |
-| **Oct 3**  | **6:20pm** | **Ravens**  |
+| Date       | Time       | Opponent    | Playbook |
+| ---------- | ---------- | ----------- | -------- |
+| Sep 19     | 7:10pm     | Jaguars     | [link](https://jonbri.github.io/seahawks/Game1Jaguars/) |
+| Sep 26     | 6:20pm     | Steelers    | [link](https://jonbri.github.io/seahawks/Game2Steelers/) |
+| **Oct 3**  | **6:20pm** | **Ravens**  | [link](https://jonbri.github.io/seahawks/Game3Ravens/) |
 | Oct 10     | 6:20pm     | Dolphins    |
 | Oct 17     | 6:20pm     | Panthers    |
 | Oct 24     | 6:20pm     | Broncos     |
 | Nov 7      | 7:10pm     | Patriots    |
 
-## Playbook
-
-### Offense
-
-#### Running
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
-  <img src="plays/RunMiddle.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
-  <img src="plays/Toss.png" width="400">
-</a>
-
-#### Passing
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
-  <img src="plays/4QuickQuickHitch.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
-  <img src="plays/ShallowCrossers.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/slot-right-green-post">
-  <img src="plays/slotRightGreenPost.png" width="400">
-</a>
-
-<a href="#">
-  <img src="plays/RedZoneDrag.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-center-cut">
-  <img src="plays/4QuickCenterCut.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/trips-right-blue-hitch-and-go">
-  <img src="plays/TripsRightBlueHitchAndGo.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-hitch-and-go">
-  <img src="plays/4QuickHichAndGo.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/trips-left-hail-mary">
-  <img src="plays/tripsLeftHailMary.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-center-zig">
-  <img src="plays/QuadsLeftCenterZig.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-loo">
-  <img src="plays/4QuickLoo.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
-  <img src="plays/QuadsLeftSlotSail.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
-  <img src="plays/Beehive.png" width="400">
-</a>
-
-
-#### Play: Recess
-
-This is a reset/hurry-up play where the players improvise relative to the flow the game.
-
-- QB/coach calls out "Recess"
-- Everyone lines up on the line of scrimmage, WRs in either trips or quads
-- All receivers improvise
-
-### Defense
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/flat-man-cover-1">
-  <img src="plays/FlatManCover1.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/flat-man-cover-1">
-  <img src="plays/FlatManCover2.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/prevent-manned-cover-2">
-  <img src="plays/PreventMannedCover2.png" width="400">
-</a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/3-front-cover-3">
-  <img src="plays/3FrontCover3.png" width="400">
-</a>
 
 ### Key
 
