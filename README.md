@@ -23,9 +23,9 @@
 
 | Date       | Time       | Opponent    |
 | ---------- | ---------- | ----------- |
-| **Sep 19** | **7:10pm** | **Jaguars** |
+| Sep 19     | 7:10pm     | Jaguars     |
 | Sep 26     | 6:20pm     | Steelers    |
-| Oct 3      | 6:20pm     | Ravens      |
+| **Oct 3**  | **6:20pm** | **Ravens**  |
 | Oct 10     | 6:20pm     | Dolphins    |
 | Oct 17     | 6:20pm     | Panthers    |
 | Oct 24     | 6:20pm     | Broncos     |
@@ -57,6 +57,10 @@
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/slot-right-green-post">
   <img src="plays/slotRightGreenPost.png" width="400">
+</a>
+
+<a href="#">
+  <img src="plays/RedZoneDrag.png" width="400">
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-center-cut">
