@@ -271,58 +271,6 @@ The play is dead when the following occurs to the ball carrier when the flag is 
 | 4 Quick      | 4 receivers, 2 on each side of the ball                                     |
 | Recess       | reset/hurry-up play where the players improvise relative to the flow the game |
 
-## Games
-
-### September 19: Jaguars
-
-#### Offense
-
-Team 1:
-
-| Player  | Position        |
-| ------- | --------------- |
-| Ethan   | Center (Yellow) |
-| Arthur  | QB              |
-| Jason   | RB (Red)        |
-| Avi     | WR (Blue)       |
-| Aahil   | WR (Green)      |
-| Grayson | WR (Orange)     |
-
-Team 2:
-
-| Player  | Position        |
-| ------- | --------------- |
-| Austin  | Center (Yellow) |
-| Ben     | QB              |
-| Maddox  | RB (Red)        |
-| Jason   | WR (Blue)       |
-| Paxton  | WR (Green)      |
-| Oliver  | WR (Orange)     |
-
-#### Defense
-
-Team 1:
-
-| Player  | Position         |
-| ------- | ---------------- |
-| Jason   | FS (Light Blue)  |
-| Grayson | SS (Orange)      |
-| Austin  | LB (Dark Blue)   |
-| Avi     | LB (Red)         |
-| Ben     | Lineman (Green)  |
-| Aahil   | Lineman (Yellow) |
-
-Team 2:
-
-| Player  | Position         |
-| ------- | ---------------- |
-| Arthur  | FS (Light Blue)  |
-| Maddox  | SS (Orange)      |
-| Grayson | LB (Dark Blue)   |
-| Oliver  | LB (Red)         |
-| Paxton  | Lineman (Green)  |
-| Ethan   | Lineman (Yellow) |
-
 ## Links
 
 - [Pleasant Park 3400 Pleasant Plns Rd](https://www.google.com/maps/place/Pleasant+Park/@35.702042,-78.8835859,766m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89ac930547618115:0x27bbf8c7665e8f57!8m2!3d35.702042!4d-78.881011!16s%2Fg%2F11p013hzqx?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D)

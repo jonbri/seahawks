@@ -2,18 +2,18 @@
 
 - Practice: 5:00pm
 - Game: 6:20pm
-- Captain: Maddox
+- Captain: Paxton
 
 ## Offense
 
 | Position    | Starter | Sub |
 | ----------- | ------- | ------ |
-| Center      | Austin  | Oliver |
-| QB          | Jason   | Maddox |
-| RB (Red)    | Aahil   | Paxton |
-| WR (Blue)   |         |         |
-| WR (Green)  |         |         |
-| WR (Orange) |         |         |
+| Center      | Oliver  | Austin |
+| QB          | Jason   | Paxton |
+| RB (Red)    | Aahil   | Ethan |
+| WR (Blue)   | Arthur  | Maddox |
+| WR (Green)  | Ben     | Aahil   |
+| WR (Orange) | Avi     | Grayson |
 
 ## Defense
 
@@ -21,10 +21,10 @@
 | ---------| ------- | ------- |
 | FS       | Jason   | Arthur  |
 | SS       | Grayson | Maddox  |
-| LB       |         |         |
-| LB       |         |         |
-| Lineman  |         |         |
-| Lineman  |         |         |
+| LB       | Avi     | Ben     |
+| LB       | Ethan   | Aahil   |
+| Lineman  | Oliver  | Austin  |
+| Lineman  | Paxton  | Oliver  |
 
 
 ## Playbook
