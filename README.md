@@ -25,54 +25,14 @@
 | ---------- | ---------- | ----------- | -------- |
 | Sep 19     | 7:10pm     | Jaguars     | [link](https://jonbri.github.io/seahawks/Game1Jaguars/) |
 | Sep 26     | 6:20pm     | Steelers    | [link](https://jonbri.github.io/seahawks/Game2Steelers/) |
-| **Oct 3**  | **6:20pm** | **Ravens**  | [link](https://jonbri.github.io/seahawks/Game3Ravens/) |
-| Oct 10     | 6:20pm     | Dolphins    |
+| Oct 3      | 6:20pm     | Ravens      | [link](https://jonbri.github.io/seahawks/Game3Ravens/) |
+| **Oct 10** | **6:20pm** | **Dolphins** | [link](https://jonbri.github.io/seahawks/Game4Dolphins/) |
 | Oct 17     | 6:20pm     | Panthers    |
 | Oct 24     | 6:20pm     | Broncos     |
 | Nov 7      | 7:10pm     | Patriots    |
 
 
-### Key
-
-| Position | Color  |
-| -------- | ------ |
-| Center   | Yellow |
-| QB       | Black  |
-| RB       | Red    |
-| WR       | Blue   |
-| WR       | Green  |
-| WR       | Orange |
-
-## Gameday agenda
-
-Practice (1 hour):
-
-- Start (~10 minutes):
-  - Warm-up
-  - Playbook discussion
-  - Points of emphasis
-- Middle (~20 minutes):
-  - Agility drills
-    - High knees
-    - Butt kicks
-    - Backpedal
-    - Lateral movement
-  - Running routes
-    - Curls
-    - Slants
-    - Go
-    - Out
-- End (~30 minutes):
-  - Coaches split up:
-    - Offense: run plays
-    - Defense: run coverages
-    - Floater
-  - 15 minutes: Team 1 offense vs. Team 1 defense
-  - 15 minutes: Team 2 offense vs. Team 2 defense
-  - Points of emphasis
-- Game
-
-Points of emphasis:
+## Points of emphasis
 
 - Quick to the line
 - Play to the whistle
