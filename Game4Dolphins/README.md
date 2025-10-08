@@ -39,6 +39,10 @@
   <img src="plays/Toss.png" width="400">
 </a>
 
+<a href="#">
+  <img src="plays/PistolToss.png" width="400">
+</a>
+
 ### Passing
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
@@ -77,6 +81,10 @@
   <img src="plays/4QuickHichAndGo.png" width="400">
 </a>
 
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
+  <img src="plays/Beehive.png" width="400">
+</a>
+
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-center-zig">
   <img src="plays/QuadsLeftCenterZig.png" width="400">
 </a>
@@ -88,9 +96,4 @@
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
   <img src="plays/QuadsLeftSlotSail.png" width="400">
 </a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
-  <img src="plays/Beehive.png" width="400">
-</a>
-
 
