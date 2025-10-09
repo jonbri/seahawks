@@ -9,10 +9,10 @@
 | Position    | Starter | Sub |
 | ----------- | ------- | ------ |
 | Center      | Austin  | Ben |
-| QB          | Paxton  | Jason |
-| RB (Red)    | Ethan   | Aahil |
-| WR (Blue)   | Maddox  | Arthur |
-| WR (Green)  | Grayson | Aahil  |
+| QB          | Arthur  | Jason |
+| RB (Red)    | Grayson | Aahil |
+| WR (Blue)   | Maddox  | Paxton |
+| WR (Green)  | Ethan   | Aahil  |
 | WR (Orange) | Oliver  | Avi |
 
 ## Defense
