@@ -1,30 +1,32 @@
-# September 26: Steelers
+# October 24: Broncos
 
-Captain: Jason
-
-## Depth Chart
+- Practice: 5:00pm, Game: 6:20pm
+- Captain: Avi
+- Centers swap every drive
 
 ## Offense
 
-| Position    | Starter | Backup |
+Aahil, Austin, Avi, Ben, Ethan, Grayson, Jason, Maddox, Oliver, Paxton
+
+| Position    | Starter | Sub |
 | ----------- | ------- | ------ |
 | Center      | Austin  | Arthur |
-| QB          | Maddox  | Ben    |
-| RB (Red)    | Jason   | Aahil  |
-| WR (Blue)   | Paxton  | Ethan  |
-| WR (Green)  | Grayson | Avi    |
-| WR (Orange) | Aahil   | Oliver |
+| QB          | Ben   | Avi |
+| RB (Red)    | Jason | |
+| WR (Blue)   | Grayson | Ethan |
+| WR (Green)  | Oliver  | Maddox |
+| WR (Orange) | Paxton  | Aahil |
 
 ## Defense
 
-| Position | Starter | Backup  |
-| ---------| ------- | ------- |
-| FS       | Jason   | Arthur  |
-| SS       | Grayson | Maddox  |
-| LB       | Ethan   | Jason   |
-| LB       | Avi     | Aahil   |
-| Lineman  | Ben     | Paxton  |
-| Lineman  | Oliver  | Austin  |
+| Position | Starter | Sub    |
+| ---------| ------- | ------ |
+| FS       | Jason   | |
+| SS       | Grayson  | Paxton |
+| LB       | Ben     | Avi    |
+| LB       | Oliver | Aahil  |
+| Lineman  | Ethan   | Maddox |
+| Lineman  | Avi     | Austin |
 
 
 ## Playbook
@@ -39,6 +41,10 @@ Captain: Jason
   <img src="plays/Toss.png" width="400">
 </a>
 
+<a href="#">
+  <img src="plays/PistolToss.png" width="400">
+</a>
+
 ### Passing
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
@@ -51,6 +57,10 @@ Captain: Jason
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/4-quick-quick-hitch">
   <img src="plays/ShallowCrossers.png" width="400">
+</a>
+
+<a href="#">
+  <img src="plays/RedZoneDrag.png" width="400">
 </a>
 
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/slot-right-green-post">
@@ -73,6 +83,10 @@ Captain: Jason
   <img src="plays/4QuickHichAndGo.png" width="400">
 </a>
 
+<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
+  <img src="plays/Beehive.png" width="400">
+</a>
+
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-center-zig">
   <img src="plays/QuadsLeftCenterZig.png" width="400">
 </a>
@@ -84,9 +98,4 @@ Captain: Jason
 <a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
   <img src="plays/QuadsLeftSlotSail.png" width="400">
 </a>
-
-<a href="https://myfootballplays.com/blogs/6-on-6-flag-football-plays/quads-left-slot-sail">
-  <img src="plays/Beehive.png" width="400">
-</a>
-
 
