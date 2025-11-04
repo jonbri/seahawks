@@ -21,15 +21,15 @@
 
 ## Schedule
 
-| Date       | Time       | Opponent    | Playbook |
-| ---------- | ---------- | ----------- | -------- |
-| Sep 19     | 7:10pm     | Jaguars     | [link](https://jonbri.github.io/seahawks/Game1Jaguars/) |
-| Sep 26     | 6:20pm     | Steelers    | [link](https://jonbri.github.io/seahawks/Game2Steelers/) |
-| Oct 3      | 6:20pm     | Ravens      | [link](https://jonbri.github.io/seahawks/Game3Ravens/) |
-| Oct 10     | 6:20pm     | Dolphins    | [link](https://jonbri.github.io/seahawks/Game4Dolphins/) |
-| Oct 17     | 6:20pm     | Panthers    | [link](https://jonbri.github.io/seahawks/Game5Panthers/) |
-| **Oct 24** | **6:20pm** | **Broncos** | [link](https://jonbri.github.io/seahawks/Game6Broncos/) |
-| Nov 7      | 7:10pm     | Patriots    | |
+| Date       | Time       | Opponent     | Playbook |
+| ---------- | ---------- | ------------ | -------- |
+| Sep 19     | 7:10pm     | Jaguars      | [link](https://jonbri.github.io/seahawks/Game1Jaguars/)  |
+| Sep 26     | 6:20pm     | Steelers     | [link](https://jonbri.github.io/seahawks/Game2Steelers/) |
+| Oct 3      | 6:20pm     | Ravens       | [link](https://jonbri.github.io/seahawks/Game3Ravens/)   |
+| Oct 10     | 6:20pm     | Dolphins     | [link](https://jonbri.github.io/seahawks/Game4Dolphins/) |
+| Oct 17     | 6:20pm     | Panthers     | [link](https://jonbri.github.io/seahawks/Game5Panthers/) |
+| Oct 24     | 6:20pm     | Broncos      | [link](https://jonbri.github.io/seahawks/Game6Broncos/)  |
+| **Nov 7**  | **7:10pm** | **Patriots** | [link](https://jonbri.github.io/seahawks/Game7Patriots/) |
 
 
 ## Points of emphasis
