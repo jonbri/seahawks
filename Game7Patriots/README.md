@@ -10,9 +10,9 @@
 | Center      | Austin  | |
 | QB          | Jason   | |
 | RB (Red)    | Grayson | Aahil |
-| WR (Blue)   | Ben | Avi |
+| WR (Blue)   | Ben     | Avi |
 | WR (Green)  | Oliver  | Ethan |
-| WR (Orange) | Paxton  | |
+| WR (Orange) | Paxton  | Maddox |
 
 ## Defense
 
@@ -23,7 +23,7 @@
 | LB       | Avi     | Ben     |
 | LB       | Aahil   | Oliver  |
 | Lineman  | Maddox  | Ethan   |
-| Lineman  | Austin  | Avi     |
+| Lineman  | Austin  | |
 
 
 ## Playbook
