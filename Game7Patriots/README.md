@@ -5,25 +5,25 @@
 
 ## Offense
 
-| Position    | Starter | Sub |
-| ----------- | ------- | ------ |
-| Center      | Austin  | Oliver |
-| QB          | Jason   | Ben |
-| RB (Red)    | Grayson | |
-| WR (Blue)   | Ethan | Avi |
-| WR (Green)  | Maddox  | |
-| WR (Orange) | Paxton  | Aahil |
+| Position    | Starter | Sub   |
+| ----------- | ------- | ----- |
+| Center      | Austin  | |
+| QB          | Jason   | |
+| RB (Red)    | Grayson | Aahil |
+| WR (Blue)   | Ben | Avi |
+| WR (Green)  | Oliver  | Ethan |
+| WR (Orange) | Paxton  | |
 
 ## Defense
 
-| Position | Starter | Sub    |
-| ---------| ------- | ------ |
+| Position | Starter | Sub     |
+| ---------| ------- | ------- |
 | FS       | Jason   | |
 | SS       | Paxton  | Grayson |
-| LB       | Avi     | Ben    |
-| LB       | Aahil | Oliver  |
-| Lineman  | Maddox   | Ethan |
-| Lineman  | Austin     | Avi |
+| LB       | Avi     | Ben     |
+| LB       | Aahil   | Oliver  |
+| Lineman  | Maddox  | Ethan   |
+| Lineman  | Austin  | Avi     |
 
 
 ## Playbook
