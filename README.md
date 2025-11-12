@@ -29,7 +29,8 @@
 | Oct 10     | 6:20pm     | Dolphins     | [link](https://jonbri.github.io/seahawks/Game4Dolphins/) |
 | Oct 17     | 6:20pm     | Panthers     | [link](https://jonbri.github.io/seahawks/Game5Panthers/) |
 | Oct 24     | 6:20pm     | Broncos      | [link](https://jonbri.github.io/seahawks/Game6Broncos/)  |
-| **Nov 7**  | **7:10pm** | **Patriots** | [link](https://jonbri.github.io/seahawks/Game7Patriots/) |
+| Nov 7      | 6:20pm     | Dolphins     | [link](https://jonbri.github.io/seahawks/Game7Dolphins/) |
+| **Nov 14** | **5:30pm** | **Playoffs** | [link](https://jonbri.github.io/seahawks/Playoffs/) |
 
 
 ## Points of emphasis

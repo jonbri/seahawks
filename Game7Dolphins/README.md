@@ -1,6 +1,7 @@
-# November 7: Patriots
+# November 7: ~~Patriots~~ Dolphins
 
-- Practice: 6:00pm, Game: 7:10pm
+- ~~Practice: 6:00pm, Game: 7:10pm~~
+- Practice: 5:30pm, Game: 6:20pm
 - Captain: Austin
 
 ## Offense
