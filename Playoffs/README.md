@@ -1,13 +1,13 @@
 # November 14: Playoffs
 
-- Practice: 4:30pm, Game: 5:30pm
+- Practice: 4:00pm, Game: 5:05pm
 - Captain: TBD
 
 ## Offense
 
 | Position    | Starter | Sub    |
 | ----------- | ------- | ------ |
-| Center      | Austin  |        |
+| Center      | Austin  | Arthur |
 | QB          | Jason   | Ben    |
 | RB (Red)    | Grayson | Aahil  |
 | WR (Blue)   | Ben     | Avi    |
@@ -23,7 +23,7 @@
 | LB       | Ben     | Avi     |
 | LB       | Oliver  | Aahil   |
 | Lineman  | Ethan   | Maddox  |
-| Lineman  | Austin  |         |
+| Lineman  | Arthur  | Austin  |
 
 
 ## Playbook
